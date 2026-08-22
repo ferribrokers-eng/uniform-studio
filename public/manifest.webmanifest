@@ -1,0 +1,12 @@
+{
+  "name": "Uniform Studio",
+  "short_name": "Uniform Studio",
+  "description": "Criação de uniformes, mockups, orçamentos e propostas comerciais.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#171B1F",
+  "theme_color": "#171B1F",
+  "orientation": "portrait-primary",
+  "lang": "pt-BR",
+  "icons": []
+}
